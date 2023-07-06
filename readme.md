@@ -73,12 +73,12 @@ npm run dev
 
 首页
 
-![]()
+![](https://raw.githubusercontent.com/geeeeeeeek/java_travel/master/server/upload/image/a.png)
 
 
 后台页面
 
-![]()
+![](https://raw.githubusercontent.com/geeeeeeeek/java_travel/master/server/upload/image/b.png)
 
 
 
