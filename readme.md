@@ -74,6 +74,11 @@ npm run dev
 5. 在浏览器输入: http://localhost:3000 即可预览
 
 
+### 视频讲解
+
+https://www.youtube.com/watch?v=hDH8qoSCFNY
+
+
 ### 界面预览
 
 首页
