@@ -17,6 +17,8 @@
 
 #### 常见问题
 
+如果运行速度慢，可以将index.html里面的js文件提前下载到本地的public文件夹。
+
 ##### 变量
 https://blog.csdn.net/qq_41636947/article/details/117907448
 
