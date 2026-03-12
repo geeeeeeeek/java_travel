@@ -35,6 +35,12 @@
 
 ### 部署运行
 
+#### 软件安装
+
+- IDEA 2022 [下载地址](https://download.jetbrains.com/idea/ideaIU-2022.3.3.exe)
+- MySQL 5.7 [下载地址](https://dev.mysql.com/get/Downloads/MySQLInstaller/mysql-installer-community-5.7.44.0.msi)
+- Node [下载地址](https://nodejs.org/dist/v18.20.2/node-v18.20.2-x64.msi)
+
 #### 后端运行步骤
 
 1. 下载JDK 1.8，并配置环境变量
@@ -59,7 +65,7 @@ mysql> source D:/xxx/xxx/xxx.sql;
 
 #### 前端运行步骤
 
-1. 安装node 16.14
+1. 安装node 18
 
 2. 修改web/src/store下的constansts.ts文件中的BASE_URL，改成你自己后端的地址
 
@@ -97,7 +103,7 @@ https://www.youtube.com/watch?v=hDH8qoSCFNY
 [点击进入](doc/java_travel.docx)
 
 
-### 付费咨询
+### 付费咨询（远程运行）
 
 微信：Java2048
 
